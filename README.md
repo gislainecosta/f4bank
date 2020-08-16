@@ -1,4 +1,4 @@
-# 4eddit
+# F4bank
 
 Projeto semanal do curso feito em conjunto com mais um colega que consistia em criar uma landing page que comunique, além da proposta do banco, os produtos "Cartão sem taxa" e "Conta corrente digital", reforçando a segurança de um banco tradicional com décadas de história no país.
 <br>
