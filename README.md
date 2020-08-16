@@ -50,9 +50,5 @@ Projeto semanal do curso feito em conjunto com mais um colega que consistia em c
 <br>
 
 ## Co-autores
-🤝[(Alex Trindade)](https://github.com/alex-t06)
+🤝[(Alex Trindade)](https://github.com/alex-t06)<br>
 🤝[(Wendel de Lima)](https://github.com/wendeldelima)
-
-
-
-O F4Bank é um projeto de um grande banco público brasileiro para competir com as startups que tem surgido, como Nubank, Banco Inter e Banco Neon. Você precisa criar# f4bank
